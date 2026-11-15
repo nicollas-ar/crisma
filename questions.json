@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "O que significa Advento?",
+    "options": [
+      "Vinda ou chegada",
+      "A proximidade do Natal",
+      "Ungido",
+      "Grande alegria"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "Quantos domingos tem o Advento?",
+    "options": [
+      "Terceiro domingo do Advento",
+      "Cristo",
+      "Salvador",
+      "Quatro"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "Qual é a cor litúrgica predominante no Advento?",
+    "options": [
+      "João Batista",
+      "Menino deitado na manjedoura",
+      "Roxo",
+      "Alegrai-vos"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Qual celebração encerra a espera do Advento?",
+    "options": [
+      "Herodes",
+      "Natal do Senhor",
+      "Rosa",
+      "Preparação espiritual"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Qual é o centro do Natal cristão?",
+    "options": [
+      "Nascimento de Jesus",
+      "Angelus",
+      "Conversão",
+      "Estrela"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Que atitude o Advento incentiva?",
+    "options": [
+      "Faça-se em mim segundo tua palavra",
+      "Luz de Cristo",
+      "Três",
+      "Vigilância e esperança"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "question": "Quem anunciou a Maria o nascimento de Jesus?",
+    "options": [
+      "Isaías",
+      "Ouro, incenso e mirra",
+      "Anjo Gabriel",
+      "Esperança"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "Onde Jesus nasceu?",
+    "options": [
+      "Não informa",
+      "Belém",
+      "Isabel",
+      "Promessa de salvação"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Quem é a mãe de Jesus?",
+    "options": [
+      "Maria",
+      "Zacarias",
+      "Preparou o caminho para Jesus",
+      "Epifania"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "Quem é o esposo de Maria?",
+    "options": [
+      "Isabel",
+      "Aquele que vem antes",
+      "Boa notícia",
+      "José"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "question": "Quem preparou o caminho do Senhor?",
+    "options": [
+      "João",
+      "Jesus Cristo",
+      "João Batista",
+      "Magnificat"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "question": "O que significa conversão cristã?",
+    "options": [
+      "Viver preparado e atento",
+      "Voltar-se para Deus",
+      "Benedictus",
+      "Deus Filho assumiu a humanidade"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Qual profeta anunciou Emanuel?",
+    "options": [
+      "Isaías",
+      "Segunda vinda gloriosa",
+      "Nazaré",
+      "Oração"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "O que significa Emanuel?",
+    "options": [
+      "Jesus",
+      "Por causa de um recenseamento",
+      "Caridade",
+      "Deus conosco"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "question": "Quando começa o ano litúrgico?",
+    "options": [
+      "César Augusto",
+      "Reconciliação",
+      "Primeiro domingo do Advento",
+      "Lucas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "Quantas velas costuma ter a coroa do Advento?",
+    "options": [
+      "Verdadeiro Deus e verdadeiro homem",
+      "Quatro",
+      "Mateus",
+      "Manjedoura"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "O que simboliza o círculo da coroa do Advento?",
+    "options": [
+      "Eternidade do amor de Deus",
+      "Em sonho",
+      "Pastores",
+      "Nascimento"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "O que representa a luz crescente da coroa?",
+    "options": [
+      "Ungido",
+      "Grande alegria",
+      "O Filho de Deus assume a natureza humana",
+      "A proximidade do Natal"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 19,
+    "question": "Qual é o domingo Gaudete?",
+    "options": [
+      "Salvador",
+      "Pai-nosso",
+      "Terceiro domingo do Advento",
+      "Cristo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "O que significa Gaudete?",
+    "options": [
+      "Casa de Davi",
+      "Alegrai-vos",
+      "João Batista",
+      "Menino deitado na manjedoura"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Que cor pode ser usada no domingo Gaudete?",
+    "options": [
+      "Rosa",
+      "Preparação espiritual",
+      "Herodes",
+      "Imaculada Conceição"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Que oração recorda a Anunciação?",
+    "options": [
+      "Conversão",
+      "Estrela",
+      "Virgem Maria",
+      "Angelus"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "question": "Qual foi a resposta de Maria ao chamado de Deus?",
+    "options": [
+      "Três",
+      "Maria",
+      "Faça-se em mim segundo tua palavra",
+      "Luz de Cristo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Qual virtude nos faz confiar nas promessas de Deus?",
+    "options": [
+      "Dezembro",
+      "Esperança",
+      "Isaías",
+      "Ouro, incenso e mirra"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Quem é a mãe de João Batista?",
+    "options": [
+      "Isabel",
+      "Promessa de salvação",
+      "Não informa",
+      "Novembro"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "question": "Quem é o pai de João Batista?",
+    "options": [
+      "Preparou o caminho para Jesus",
+      "Epifania",
+      "Antes das celebrações do Natal",
+      "Zacarias"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 27,
+    "question": "Quem Maria visitou após a Anunciação?",
+    "options": [
+      "Boa notícia",
+      "Nascimento do Filho de Deus",
+      "Isabel",
+      "Aquele que vem antes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "Como se chama o cântico de Maria?",
+    "options": [
+      "Santa Ana",
+      "Magnificat",
+      "João",
+      "Jesus Cristo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Como se chama o cântico de Zacarias?",
+    "options": [
+      "Benedictus",
+      "Deus Filho assumiu a humanidade",
+      "Viver preparado e atento",
+      "São Joaquim"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "Qual vinda futura de Cristo o Advento recorda?",
+    "options": [
+      "Nazaré",
+      "Oração",
+      "Mateus",
+      "Segunda vinda gloriosa"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 31,
+    "question": "Quem é a luz do mundo segundo João 8?",
+    "options": [
+      "Caridade",
+      "Marcos",
+      "Jesus",
+      "Por causa de um recenseamento"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Em qual Evangelho está a Anunciação?",
+    "options": [
+      "João Batista",
+      "Lucas",
+      "César Augusto",
+      "Reconciliação"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Em qual Evangelho aparecem os magos?",
+    "options": [
+      "Mateus",
+      "Manjedoura",
+      "Verdadeiro Deus e verdadeiro homem",
+      "Cordeiro de Deus"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "Como José recebeu uma orientação divina em Mateus?",
+    "options": [
+      "Pastores",
+      "Nascimento",
+      "Generosidade",
+      "Em sonho"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "question": "O que significa Messias?",
+    "options": [
+      "O Filho de Deus assume a natureza humana",
+      "Esperança",
+      "Ungido",
+      "Grande alegria"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "question": "Qual palavra grega corresponde a Messias?",
+    "options": [
+      "Fé, esperança e caridade",
+      "Cristo",
+      "Salvador",
+      "Pai-nosso"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Quem disse que não era digno de desatar as sandálias de Jesus?",
+    "options": [
+      "João Batista",
+      "Menino deitado na manjedoura",
+      "Casa de Davi",
+      "Ave-Maria"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "Qual é uma atitude central no Advento?",
+    "options": [
+      "Herodes",
+      "Imaculada Conceição",
+      "Isabel",
+      "Preparação espiritual"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 39,
+    "question": "O que o roxo litúrgico recorda?",
+    "options": [
+      "Virgem Maria",
+      "25 de março",
+      "Conversão",
+      "Estrela"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "O que uma vela acesa pode simbolizar?",
+    "options": [
+      "Ser mãe de Jesus",
+      "Luz de Cristo",
+      "Três",
+      "Maria"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Qual profeta fala da voz que prepara o caminho?",
+    "options": [
+      "Isaías",
+      "Ouro, incenso e mirra",
+      "Dezembro",
+      "Mudar de vida e voltar-se para Deus"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "O que os profetas anunciavam ao povo?",
+    "options": [
+      "Não informa",
+      "Novembro",
+      "Chamado à conversão",
+      "Promessa de salvação"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 43,
+    "question": "Por que João Batista é chamado precursor?",
+    "options": [
+      "Antes das celebrações do Natal",
+      "Louvai o Senhor",
+      "Preparou o caminho para Jesus",
+      "Epifania"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "O que significa precursor?",
+    "options": [
+      "Glória",
+      "Aquele que vem antes",
+      "Boa notícia",
+      "Nascimento do Filho de Deus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Qual Evangelho diz que o Verbo se fez carne?",
+    "options": [
+      "João",
+      "Jesus Cristo",
+      "Santa Ana",
+      "Aleluia"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "O que significa o Verbo se fez carne?",
+    "options": [
+      "Viver preparado e atento",
+      "São Joaquim",
+      "A primeira e a gloriosa",
+      "Deus Filho assumiu a humanidade"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "Em que cidade vivia Maria na Anunciação?",
+    "options": [
+      "Mateus",
+      "Príncipe da Paz",
+      "Nazaré",
+      "Oração"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Por que José foi a Belém segundo Lucas?",
+    "options": [
+      "Isaías",
+      "Por causa de um recenseamento",
+      "Caridade",
+      "Marcos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Qual imperador é citado em Lucas 2?",
+    "options": [
+      "César Augusto",
+      "Reconciliação",
+      "João Batista",
+      "Jesus Cristo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Onde o menino Jesus foi colocado após nascer?",
+    "options": [
+      "Verdadeiro Deus e verdadeiro homem",
+      "Cordeiro de Deus",
+      "Vinda ou chegada",
+      "Manjedoura"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 51,
+    "question": "Quem ouviu dos anjos a notícia do nascimento?",
+    "options": [
+      "Generosidade",
+      "Quatro",
+      "Pastores",
+      "Nascimento"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 52,
+    "question": "Como os anjos apresentaram o nascimento de Jesus?",
+    "options": [
+      "Roxo",
+      "Grande alegria",
+      "O Filho de Deus assume a natureza humana",
+      "Esperança"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "question": "Qual título de Jesus aparece em Lucas 2,11?",
+    "options": [
+      "Salvador",
+      "Pai-nosso",
+      "Fé, esperança e caridade",
+      "Natal do Senhor"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Qual era o sinal dado aos pastores?",
+    "options": [
+      "Casa de Davi",
+      "Ave-Maria",
+      "Nascimento de Jesus",
+      "Menino deitado na manjedoura"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 55,
+    "question": "Qual rei aparece na narrativa dos magos?",
+    "options": [
+      "Isabel",
+      "Vigilância e esperança",
+      "Herodes",
+      "Imaculada Conceição"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "O que guiou os magos segundo Mateus?",
+    "options": [
+      "Anjo Gabriel",
+      "Estrela",
+      "Virgem Maria",
+      "25 de março"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Quantos tipos de presentes Mateus cita?",
+    "options": [
+      "Três",
+      "Maria",
+      "Ser mãe de Jesus",
+      "Belém"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "Quais foram os presentes dos magos?",
+    "options": [
+      "Dezembro",
+      "Mudar de vida e voltar-se para Deus",
+      "Maria",
+      "Ouro, incenso e mirra"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "question": "Quantos magos a Bíblia afirma que eram?",
+    "options": [
+      "Chamado à conversão",
+      "José",
+      "Não informa",
+      "Novembro"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 60,
+    "question": "Qual festa recorda a manifestação de Jesus aos povos?",
+    "options": [
+      "João Batista",
+      "Epifania",
+      "Antes das celebrações do Natal",
+      "Louvai o Senhor"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "O que significa Evangelho?",
+    "options": [
+      "Boa notícia",
+      "Nascimento do Filho de Deus",
+      "Glória",
+      "Voltar-se para Deus"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "question": "Quem é o Salvador prometido aos cristãos?",
+    "options": [
+      "Santa Ana",
+      "Aleluia",
+      "Isaías",
+      "Jesus Cristo"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 63,
+    "question": "O que significa vigiar na fé?",
+    "options": [
+      "A primeira e a gloriosa",
+      "Deus conosco",
+      "Viver preparado e atento",
+      "São Joaquim"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 64,
+    "question": "O que nos ajuda a dialogar com Deus?",
+    "options": [
+      "Primeiro domingo do Advento",
+      "Oração",
+      "Mateus",
+      "Príncipe da Paz"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Como demonstramos amor ao próximo?",
+    "options": [
+      "Caridade",
+      "Marcos",
+      "Isaías",
+      "Quatro"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Em qual sacramento recebemos o perdão dos pecados após o Batismo?",
+    "options": [
+      "João Batista",
+      "Jesus Cristo",
+      "Eternidade do amor de Deus",
+      "Reconciliação"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 67,
+    "question": "Como a fé católica define Jesus?",
+    "options": [
+      "Vinda ou chegada",
+      "A proximidade do Natal",
+      "Verdadeiro Deus e verdadeiro homem",
+      "Cordeiro de Deus"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 68,
+    "question": "O que significa Natividade?",
+    "options": [
+      "Terceiro domingo do Advento",
+      "Nascimento",
+      "Generosidade",
+      "Quatro"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "O que é a Encarnação?",
+    "options": [
+      "O Filho de Deus assume a natureza humana",
+      "Esperança",
+      "Roxo",
+      "Alegrai-vos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Que oração diz venha a nós o vosso Reino?",
+    "options": [
+      "Fé, esperança e caridade",
+      "Natal do Senhor",
+      "Rosa",
+      "Pai-nosso"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 71,
+    "question": "De qual casa real José descendia?",
+    "options": [
+      "Nascimento de Jesus",
+      "Angelus",
+      "Casa de Davi",
+      "Ave-Maria"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 72,
+    "question": "Qual solenidade é celebrada em 8 de dezembro?",
+    "options": [
+      "Faça-se em mim segundo tua palavra",
+      "Imaculada Conceição",
+      "Isabel",
+      "Vigilância e esperança"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Quem foi preservada do pecado original desde a concepção?",
+    "options": [
+      "Virgem Maria",
+      "25 de março",
+      "Anjo Gabriel",
+      "Esperança"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "A Imaculada Conceição se refere à concepção de quem?",
+    "options": [
+      "Ser mãe de Jesus",
+      "Belém",
+      "Isabel",
+      "Maria"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 75,
+    "question": "Em qual mês costuma ocorrer a maior parte do Advento?",
+    "options": [
+      "Maria",
+      "Zacarias",
+      "Dezembro",
+      "Mudar de vida e voltar-se para Deus"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "Em qual mês o Advento pode começar?",
+    "options": [
+      "Isabel",
+      "Novembro",
+      "Chamado à conversão",
+      "José"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Quando termina o Advento?",
+    "options": [
+      "Antes das celebrações do Natal",
+      "Louvai o Senhor",
+      "João Batista",
+      "Magnificat"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "question": "O que a Igreja celebra no Natal?",
+    "options": [
+      "Glória",
+      "Voltar-se para Deus",
+      "Benedictus",
+      "Nascimento do Filho de Deus"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 79,
+    "question": "Quem é a mãe de Maria segundo a tradição?",
+    "options": [
+      "Isaías",
+      "Segunda vinda gloriosa",
+      "Santa Ana",
+      "Aleluia"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "Quem é o pai de Maria segundo a tradição?",
+    "options": [
+      "Jesus",
+      "São Joaquim",
+      "A primeira e a gloriosa",
+      "Deus conosco"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Qual Evangelho começa com a genealogia de Jesus?",
+    "options": [
+      "Mateus",
+      "Príncipe da Paz",
+      "Primeiro domingo do Advento",
+      "Lucas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Qual Evangelho inicia com João Batista no deserto?",
+    "options": [
+      "Isaías",
+      "Quatro",
+      "Mateus",
+      "Marcos"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "question": "Quem chamou Jesus de Cordeiro de Deus?",
+    "options": [
+      "Eternidade do amor de Deus",
+      "Em sonho",
+      "João Batista",
+      "Jesus Cristo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "question": "Quem tira o pecado do mundo segundo João 1,29?",
+    "options": [
+      "Ungido",
+      "Cordeiro de Deus",
+      "Vinda ou chegada",
+      "A proximidade do Natal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Qual atitude combate o egoísmo?",
+    "options": [
+      "Generosidade",
+      "Quatro",
+      "Terceiro domingo do Advento",
+      "Cristo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "question": "Qual virtude teologal se relaciona com a espera confiante?",
+    "options": [
+      "Roxo",
+      "Alegrai-vos",
+      "João Batista",
+      "Esperança"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 87,
+    "question": "Quais são as virtudes teologais?",
+    "options": [
+      "Rosa",
+      "Preparação espiritual",
+      "Fé, esperança e caridade",
+      "Natal do Senhor"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "question": "Qual oração contém a saudação do anjo a Maria?",
+    "options": [
+      "Conversão",
+      "Ave-Maria",
+      "Nascimento de Jesus",
+      "Angelus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Quem disse bendita és tu entre as mulheres?",
+    "options": [
+      "Isabel",
+      "Vigilância e esperança",
+      "Faça-se em mim segundo tua palavra",
+      "Luz de Cristo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "question": "Em que dia normalmente se celebra a Anunciação?",
+    "options": [
+      "Anjo Gabriel",
+      "Esperança",
+      "Isaías",
+      "25 de março"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 91,
+    "question": "Qual missão Maria recebeu na Anunciação?",
+    "options": [
+      "Isabel",
+      "Promessa de salvação",
+      "Ser mãe de Jesus",
+      "Belém"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "question": "O que é converter-se?",
+    "options": [
+      "Preparou o caminho para Jesus",
+      "Mudar de vida e voltar-se para Deus",
+      "Maria",
+      "Zacarias"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "Qual era a mensagem de João Batista?",
+    "options": [
+      "Chamado à conversão",
+      "José",
+      "Isabel",
+      "Aquele que vem antes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "question": "O que significa Aleluia?",
+    "options": [
+      "João Batista",
+      "Magnificat",
+      "João",
+      "Louvai o Senhor"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 95,
+    "question": "Qual hino normalmente se omite nos domingos do Advento?",
+    "options": [
+      "Benedictus",
+      "Deus Filho assumiu a humanidade",
+      "Glória",
+      "Voltar-se para Deus"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 96,
+    "question": "Qual aclamação continua sendo usada no Advento?",
+    "options": [
+      "Nazaré",
+      "Aleluia",
+      "Isaías",
+      "Segunda vinda gloriosa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Quais vindas de Cristo o Advento contempla?",
+    "options": [
+      "A primeira e a gloriosa",
+      "Deus conosco",
+      "Jesus",
+      "Por causa de um recenseamento"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "Qual título messiânico relaciona Jesus à paz?",
+    "options": [
+      "Primeiro domingo do Advento",
+      "Lucas",
+      "César Augusto",
+      "Príncipe da Paz"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 99,
+    "question": "Qual profeta anuncia o Príncipe da Paz?",
+    "options": [
+      "Mateus",
+      "Manjedoura",
+      "Isaías",
+      "Quatro"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 100,
+    "question": "Para quem aponta toda a preparação do Advento?",
+    "options": [
+      "Pastores",
+      "Jesus Cristo",
+      "Eternidade do amor de Deus",
+      "Em sonho"
+    ],
+    "answer": 1
+  }
+]
