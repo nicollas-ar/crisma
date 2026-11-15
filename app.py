@@ -6,7 +6,7 @@ app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET_KEY", secrets.token_hex(32))
 DB = os.environ.get("DATABASE_URL", "")
 with open("questions.json", encoding="utf-8") as f:
-    QUESTIONS = json.load(f)
+    QUESTIONS = json.load(f)[:35]
 LOOKUP = {q["id"]: q for q in QUESTIONS}
 
 def connection():
